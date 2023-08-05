@@ -1,0 +1,15 @@
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\bin\Debug\net6.0\Ex03Thread.exe
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\bin\Debug\net6.0\Ex03Thread.deps.json
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\bin\Debug\net6.0\Ex03Thread.runtimeconfig.json
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\bin\Debug\net6.0\Ex03Thread.dll
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\bin\Debug\net6.0\Ex03Thread.pdb
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\obj\Debug\net6.0\Ex03Thread.csproj.AssemblyReference.cache
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\obj\Debug\net6.0\Ex03Thread.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\obj\Debug\net6.0\Ex03Thread.AssemblyInfoInputs.cache
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\obj\Debug\net6.0\Ex03Thread.AssemblyInfo.cs
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\obj\Debug\net6.0\Ex03Thread.csproj.CoreCompileInputs.cache
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\obj\Debug\net6.0\Ex03Thread.dll
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\obj\Debug\net6.0\refint\Ex03Thread.dll
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\obj\Debug\net6.0\Ex03Thread.pdb
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\obj\Debug\net6.0\Ex03Thread.genruntimeconfig.cache
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex03Thread\Ex03Thread\obj\Debug\net6.0\ref\Ex03Thread.dll

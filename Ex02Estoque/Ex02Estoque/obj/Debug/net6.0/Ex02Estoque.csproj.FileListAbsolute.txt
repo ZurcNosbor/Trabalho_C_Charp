@@ -1,0 +1,15 @@
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\obj\Debug\net6.0\Ex02Estoque.csproj.AssemblyReference.cache
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\obj\Debug\net6.0\Ex02Estoque.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\obj\Debug\net6.0\Ex02Estoque.AssemblyInfoInputs.cache
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\obj\Debug\net6.0\Ex02Estoque.AssemblyInfo.cs
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\obj\Debug\net6.0\Ex02Estoque.csproj.CoreCompileInputs.cache
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\bin\Debug\net6.0\Ex02Estoque.exe
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\bin\Debug\net6.0\Ex02Estoque.deps.json
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\bin\Debug\net6.0\Ex02Estoque.runtimeconfig.json
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\bin\Debug\net6.0\Ex02Estoque.dll
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\bin\Debug\net6.0\Ex02Estoque.pdb
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\obj\Debug\net6.0\Ex02Estoque.dll
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\obj\Debug\net6.0\refint\Ex02Estoque.dll
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\obj\Debug\net6.0\Ex02Estoque.pdb
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\obj\Debug\net6.0\Ex02Estoque.genruntimeconfig.cache
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex02Estoque\Ex02Estoque\obj\Debug\net6.0\ref\Ex02Estoque.dll

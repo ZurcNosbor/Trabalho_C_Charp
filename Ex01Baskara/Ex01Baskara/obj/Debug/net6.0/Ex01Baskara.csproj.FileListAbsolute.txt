@@ -1,0 +1,15 @@
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\obj\Debug\net6.0\Ex01Baskara.csproj.AssemblyReference.cache
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\obj\Debug\net6.0\Ex01Baskara.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\obj\Debug\net6.0\Ex01Baskara.AssemblyInfoInputs.cache
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\obj\Debug\net6.0\Ex01Baskara.AssemblyInfo.cs
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\obj\Debug\net6.0\Ex01Baskara.csproj.CoreCompileInputs.cache
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\bin\Debug\net6.0\Ex01Baskara.exe
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\bin\Debug\net6.0\Ex01Baskara.deps.json
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\bin\Debug\net6.0\Ex01Baskara.runtimeconfig.json
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\bin\Debug\net6.0\Ex01Baskara.dll
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\bin\Debug\net6.0\Ex01Baskara.pdb
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\obj\Debug\net6.0\Ex01Baskara.dll
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\obj\Debug\net6.0\refint\Ex01Baskara.dll
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\obj\Debug\net6.0\Ex01Baskara.pdb
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\obj\Debug\net6.0\Ex01Baskara.genruntimeconfig.cache
+E:\Zurc Nosbor\Estudos\BACHAREL - ENGENHARIA DO SOFTWARE\22 - PROGRAMAÇÃO I\ATIVIDADE PRÁTICA\atvp\Ex01Baskara\Ex01Baskara\obj\Debug\net6.0\ref\Ex01Baskara.dll
